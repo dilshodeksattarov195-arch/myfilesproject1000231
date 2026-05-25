@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycrocess",
+        "uuid": 451605,
+        "checksum": "ugnc5i"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
